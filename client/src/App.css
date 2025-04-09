@@ -1,0 +1,15 @@
+body {
+  background-color: #e7e7e7;
+  font-family: Arial, sans-serif;
+}
+.navbar {
+  background-color: #2f6a87 !important;
+}
+.btn-primary {
+  background-color: #ea6c36;
+  border-color: #ea6c36;
+}
+.btn-primary:hover {
+  background-color: #d95e2e;
+  border-color: #d95e2e;
+}
